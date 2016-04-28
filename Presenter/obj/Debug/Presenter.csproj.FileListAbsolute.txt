@@ -1,0 +1,9 @@
+E:\Projects\VisualStudio\Reciples\Presenter\bin\Debug\Presenter.dll
+E:\Projects\VisualStudio\Reciples\Presenter\bin\Debug\Presenter.pdb
+E:\Projects\VisualStudio\Reciples\Presenter\obj\Debug\Presenter.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\Reciples\Presenter\obj\Debug\Presenter.dll
+E:\Projects\VisualStudio\Reciples\Presenter\obj\Debug\Presenter.pdb
+E:\Projects\VisualStudio\Reciples\Presenter\bin\Debug\Model.dll
+E:\Projects\VisualStudio\Reciples\Presenter\bin\Debug\View.dll
+E:\Projects\VisualStudio\Reciples\Presenter\bin\Debug\Model.pdb
+E:\Projects\VisualStudio\Reciples\Presenter\bin\Debug\View.pdb
