@@ -1,0 +1,10 @@
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\MainWindow.baml
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\MainWindow.g.cs
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\View_MarkupCompile.cache
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\View.g.resources
+E:\Projects\VisualStudio\Reciples\View\bin\Debug\View.dll
+E:\Projects\VisualStudio\Reciples\View\bin\Debug\View.pdb
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\View.dll
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\View.pdb
+E:\Projects\VisualStudio\Reciples\View\obj\Debug\Dictionary1.baml
