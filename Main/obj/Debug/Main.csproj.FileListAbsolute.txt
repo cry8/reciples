@@ -1,0 +1,16 @@
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\Main.exe.config
+E:\Projects\VisualStudio\Reciples\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudio\Reciples\Main\obj\Debug\App.g.cs
+E:\Projects\VisualStudio\Reciples\Main\obj\Debug\Main_MarkupCompile.cache
+E:\Projects\VisualStudio\Reciples\Main\obj\Debug\Main.Properties.Resources.resources
+E:\Projects\VisualStudio\Reciples\Main\obj\Debug\Main.csproj.GenerateResource.Cache
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\Main.exe
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\Main.pdb
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\Model.dll
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\Presenter.dll
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\View.dll
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\Model.pdb
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\Presenter.pdb
+E:\Projects\VisualStudio\Reciples\Main\bin\Debug\View.pdb
+E:\Projects\VisualStudio\Reciples\Main\obj\Debug\Main.exe
+E:\Projects\VisualStudio\Reciples\Main\obj\Debug\Main.pdb
